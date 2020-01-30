@@ -6,7 +6,7 @@ Portfolio :page_facing_up:
 :ballot_box_with_check: 1.   
 :white_check_mark: 2. 
 
-
+## 스티비의 프론트엔드 프로젝트 설명서 양식을 참고하여 포트폴리오 작성
 
 ## 어떤 일을 하게 되나요?
 
